@@ -1,0 +1,38 @@
+.banner {
+flex-direction: column;
+box-sizing:  border-box;
+padding: 20px;
+margin-trim: 10px;
+width: 400px;
+height: 250;
+border: 1px solid #ccc;
+
+}
+body {background: #f1f1f1}
+#sobre {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align:left;
+    font-size: 20px;
+    font-weight: 100;
+    color:navy;
+    text-transform: uppercase;
+}
+
+
+#midias {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align:left;
+    font-size: 20px;
+    font-weight: 100px;
+    color:darkblue;
+    text-transform: uppercase;
+}
+
+#redes{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align:left;
+    font-size: 20px;
+    font-weight: 100;
+    color:navy;
+    text-transform: uppercase;
+}
